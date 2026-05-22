@@ -21,9 +21,10 @@ Aurélien Géron's *Hands-On Machine Learning* is one of the most popular practi
 
 ## How to Use
 
-1. Watch the [video](https://www.youtube.com/playlist?list=PLrGq9NbP4ut6EPRzgV8gIc84Az329uQ8W) for the chapter
-2. Open the corresponding notebook to review the key concepts and code
-3. Try modifying the code and experimenting on your own
+1. Clone the repo: `git clone https://github.com/HEGAB7/Notes-of-Hand-on-ML-Book.git`
+2. Watch the [video](https://www.youtube.com/playlist?list=PLrGq9NbP4ut6EPRzgV8gIc84Az329uQ8W) for the chapter
+3. Open the corresponding notebook to review the key concepts and code
+4. Try modifying the code and experimenting on your own
 
 You can run the notebooks locally with [Anaconda](https://www.anaconda.com/) or directly in [Google Colab](https://colab.research.google.com/).
 
